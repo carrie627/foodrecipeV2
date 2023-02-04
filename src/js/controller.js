@@ -1,6 +1,6 @@
 // import 'core-js/stable';
 import 'core-js/es/array';
-
+// import 'core-js';
 import 'regenerator-runtime/runtime';
 import * as model from './model.js';
 import { MODAL_CLOSE_SEC } from './config.js';
